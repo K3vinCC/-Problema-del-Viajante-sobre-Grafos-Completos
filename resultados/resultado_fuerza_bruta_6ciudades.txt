@@ -1,0 +1,17 @@
+
+====================================
+=========== MEJOR RUTA =============
+====================================
+
+Moscú -> Vladimir : 2.8199 unidades
+Vladimir -> Tver : 4.5667 unidades
+Tver -> Veliky Novgorod : 4.9192 unidades
+Veliky Novgorod -> San Petersburgo : 1.7123 unidades
+San Petersburgo -> Pskov : 2.8982 unidades
+Pskov -> Moscú : 9.5124 unidades
+
+Distancia total óptima: 26.4287 unidades
+
+Ruta completa: Moscú -> Vladimir -> Tver -> Veliky Novgorod -> San Petersburgo -> Pskov -> Moscú
+
+Tiempo total de ejecución: 0.0060 segundos

@@ -1,0 +1,19 @@
+Prueba realizada con 9 ciudades
+
+============= Viaje NN =============
+
+Moscú -> Tver : 2.0437 unidades
+Tver -> Vladimir : 4.5667 unidades
+Vladimir -> Nizhni Nóvgorod : 3.5285 unidades
+Nizhni Nóvgorod -> Kazan : 5.1970 unidades
+Kazan -> Samara : 2.7914 unidades
+Samara -> Veliky Novgorod : 19.6050 unidades
+Veliky Novgorod -> San Petersburgo : 1.7123 unidades
+San Petersburgo -> Pskov : 2.8982 unidades
+Pskov -> Moscú : 9.5124 unidades
+
+Longitud total del tour (NN): 51.8551 unidades
+
+Ruta completa: Moscú -> Tver -> Vladimir -> Nizhni Nóvgorod -> Kazan -> Samara -> Veliky Novgorod -> San Petersburgo -> Pskov -> Moscú
+
+Tiempo total de ejecución: 0.000000 segundos

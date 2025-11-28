@@ -1,0 +1,20 @@
+
+====================================
+=========== MEJOR RUTA =============
+====================================
+
+Moscú -> Samara : 12.7791 unidades
+Samara -> Kazan : 2.7914 unidades
+Kazan -> Nizhni Nóvgorod : 5.1970 unidades
+Nizhni Nóvgorod -> Vladimir : 3.5285 unidades
+Vladimir -> Tver : 4.5667 unidades
+Tver -> Veliky Novgorod : 4.9192 unidades
+Veliky Novgorod -> San Petersburgo : 1.7123 unidades
+San Petersburgo -> Pskov : 2.8982 unidades
+Pskov -> Moscú : 9.5124 unidades
+
+Distancia total óptima: 47.9047 unidades
+
+Ruta completa: Moscú -> Samara -> Kazan -> Nizhni Nóvgorod -> Vladimir -> Tver -> Veliky Novgorod -> San Petersburgo -> Pskov -> Moscú
+
+Tiempo total de ejecución: 1.5294 segundos
